@@ -1,0 +1,27 @@
+﻿# IntelliJ
+.idea/
+*.iml
+
+# Compiled Java and build output
+*.class
+*.jar
+*.war
+out/
+target/
+build/
+WEB-INF/classes/
+
+# Logs and temporary files
+*.log
+temp/
+
+# Local secrets
+.env
+.env.*
+
+# Runtime uploads
+uploads/*
+
+# OS files
+.DS_Store
+Thumbs.db
